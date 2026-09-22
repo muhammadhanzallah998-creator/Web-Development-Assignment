@@ -1,0 +1,72 @@
+h1
+{
+    background-color: rgb(117, 17, 17);
+    width: 400px;
+    line-height: 50 px;
+    color: rgb(231, 219, 195);
+}
+
+td
+{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+.number
+{
+    line-height: 0px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.name
+{
+    line-height: 0px;
+    font-weight: bold;
+}
+
+.category-01
+{
+    background-color: rgb(85, 165, 84);
+}
+
+.category-02
+{
+    background-color: rgb(222, 99, 99);
+}
+
+.category-03
+{
+    background-color: rgb(220, 155, 93);
+}
+
+.category-04
+{
+    background-color: rgb(136, 221, 252);
+}
+
+.category-05
+{
+    background-color: rgb(196, 112, 199);
+}
+
+.category-06
+{
+    background-color: rgb(236, 221, 64);
+}
+
+.category-07
+{
+    background-color: rgb(229, 146, 217);
+}
+
+.category-08
+{
+    background-color: rgb(167, 163, 166);
+}
+
+.category-09
+{
+    background-color: rgb(87, 127, 246);
+}
